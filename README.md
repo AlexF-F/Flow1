@@ -18,5 +18,5 @@
 
 #### Resultados y conclusiones 
 
-Una vez completados los pasos anteriores se deberá ver una ventana que cada segundo se estará actualizando, como se ve en <a href="https://www.mozilla.org/es-ES/">imagen</a>.
+Una vez completados los pasos anteriores se deberá ver una ventana que cada segundo se estará actualizando, como se ve en <a href=https://github.com/AlexF-F/Flow1/blob/main/WhatsApp%20Image%202022-11-26%20at%209.25.28%20PM.jpeg">imagen</a>.
 
